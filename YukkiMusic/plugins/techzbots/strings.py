@@ -46,10 +46,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [   
             InlineKeyboardButton(
-                text="📨 Channel", url="https://t.me/TechZBots"
+                text="📨 Channel", url="https://t.me/PyTgMusicUpdates"
             ),
             InlineKeyboardButton(
-                text="📨 Support", url="https://t.me/TechZBots_Support"
+                text="📨 Support", url="https://t.me/PyTgMusicSupport"
             ),                       
         ],
         [
