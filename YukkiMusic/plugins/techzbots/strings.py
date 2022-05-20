@@ -59,10 +59,15 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="👩‍💻 Devloper", url="https://t.me/Attitudeking_vj"
+                text="👩‍💻 Devloper", user_id=1960462442
             ),
             InlineKeyboardButton(
                 text="💡 Git Repo", url="https://t.me/repo_pytgmusic"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="🏳️‍🌈 Language", url="https://t.me/pytgMusic_Know_Langs"
             ),                       
         ],        
     ]
