@@ -4,11 +4,11 @@ from config import MUSIC_BOT_NAME as BOT_NAME
 
 BOT_USERNAME = app.username
 START_TEXT = f"""
-✨ **Hello MENTION !**
+✨ ʜɪ MENTION !
 
-**ɪ ᴀᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ᴛᴏ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ɪɴ ɢʀᴏᴜᴘs, sᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍs ʟɪᴋᴇ ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪꜰʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇᴍᴜsɪᴄ, sᴏᴜɴᴅᴄʟᴏᴜᴅ ᴇᴛᴄ.**
+💭 ɪ ᴀᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ᴛᴏ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ɪɴ ɢʀᴏᴜᴘs.**
 
-🕵️‍♂️**ꜰɪɴᴅ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ʙᴏᴛ's ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ➤ 📚 ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ**
+🕵️‍♂️ ꜰɪɴᴅ ᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ʙᴏᴛ's ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ʜᴏᴡ ᴛʜᴇʏ ᴡᴏʀᴋ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ➤ **📚 ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ!**
 """
 
 COMMANDS_TEXT = f"""
@@ -55,6 +55,14 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="📚 Commands & Help", callback_data="command_menu"
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="👩‍💻 Devloper", url="https://t.me/Attitudeking_vj"
+            ),
+            InlineKeyboardButton(
+                text="💡 Git Repo", url="https://t.me/repo_pytgmusic"
             ),                       
         ],        
     ]
