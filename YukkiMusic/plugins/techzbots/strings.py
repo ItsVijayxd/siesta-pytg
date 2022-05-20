@@ -41,7 +41,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
 START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="✚ Add me to Group ✚", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
+                text="📚 Commands & Help", callback_data="command_menu"
             ),            
         ],
         [   
@@ -54,12 +54,12 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📚 Commands & Help", callback_data="command_menu"
+                text="✚ Add Me To Your Group ✚", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="👩‍💻 Devloper", url="https://t.me/Attitudeking_vj"
+                text="👩‍💻 Devloper", user_id=OWNER
             ),
             InlineKeyboardButton(
                 text="💡 Git Repo", url="https://t.me/repo_pytgmusic"
