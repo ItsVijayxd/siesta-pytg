@@ -94,6 +94,10 @@ For more information on the technologies that power the SiestaXMusic, check out 
 - You check your logs there!
 - Click on save button there at bottom to save your logs and forward it to us on [@TechZBots_Support](https://telegram.me/TechZBots_Support) if you face any problem
 
+     ## 🚀 Okteto Deployment
+
+<h4>Click the button below to deploy PyTgMusic on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/NotReallyKing/PyTgMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 </details>
 
 ## 🖇 VPS Deployment
