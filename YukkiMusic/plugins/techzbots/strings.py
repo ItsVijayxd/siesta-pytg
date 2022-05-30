@@ -29,10 +29,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates", url="https://t.me/TechZBots"
+                text="📣 Updates", url="https://t.me/PyTgMusicUpdates"
             ),
             InlineKeyboardButton(
-                text="💬 Support", url="https://t.me/TechZBots_Support"
+                text="💬 Support", url="https://t.me/PytgMusicSupport"
             ),                       
         ],        
     ]
