@@ -62,7 +62,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
                 text="👨‍💻 Developer", user_id=1960462442
             ),
             InlineKeyboardButton(
-                text="💡 Git Repo", url="https://t.me/repo_pytgmusic"
+                text="💡 Git Repo", url="https://t.me/PyTgMusic_repo"
             ),
         ],
         [
