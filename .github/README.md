@@ -1,10 +1,10 @@
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://telegra.ph/file/50b7d9572441eede91180.jpg" alt="ICON" width="80%"/></p>
 
-# SiestaXMusic
+# PyTgMusic
 
-[SiestaXMusic](https://github.com/TechShreyash/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[PyTgMusicBot](https://github.com/NotReallyKing/PyTgMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -94,11 +94,13 @@ For more information on the technologies that power the SiestaXMusic, check out 
 - You check your logs there!
 - Click on save button there at bottom to save your logs and forward it to us on [@TechZBots_Support](https://telegram.me/TechZBots_Support) if you face any problem
 
-     ## 🚀 Okteto Deployment
+     
+## 🚀 Okteto Deployment
 
-<h4>Click the button below to deploy PyTgMusic on Okteto!</h4>
+    <h4>Click the button below to deploy PyTgMusic on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/NotReallyKing/PyTgMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 </details>
+
 
 ## 🖇 VPS Deployment
 
@@ -120,21 +122,21 @@ shikhar@MacBook~ $ bash start
 > Not Getting VPS Method? [Watch Tutorial](https://telegram.me/TheYukki/2275)
 
 
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
+<img src="" align="center">
 
 
 ## 🏷 Support
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/TechZBots)
-- [Support Group](https://telegram.me/TechZBots_Support)
+- [Updates Channel](https://telegram.me/PytgMusicUpdates)
+- [Support Group](https://telegram.me/PytgMusicSupport)
 
 ## 🎗 Project assistance
 
 If you want to say **thank you** or/and support active development of SiestaXMusic:
 
-- Add a [GitHub Star](https://github.com/TechShreyash/SiestaXMusic) to the project.
+- just [follow me](https://github.com/AttitudeKing-vj) to the project.
 - Fork the Repo :)
 
 ## 👨🏻‍💻 Authors & contributors
