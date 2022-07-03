@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TechZBots")
-                await self.one.join_chat("TechZBots_Support")                
+                await self.one.join_chat("PytgMusicUpdates")
+                await self.one.join_chat("TgCalls_MusicXchat")                
             except:
                 pass
             assistants.append(1)
@@ -85,7 +85,7 @@ class Userbot(Client):
             assistants.append(2)
             try:
                 await self.two.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "PyTgAssistant Started"
                 )
             except:
                 LOGGER(__name__).error(
